@@ -1,4 +1,4 @@
-
+//here in this file you can see almost all the basics of kotlin
 import www.example.models.Customer
 import java.io.File
 import java.io.RandomAccessFile
